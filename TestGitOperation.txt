@@ -1,2 +1,3 @@
 TestGitOperation_01
-TestGitOperation_02
+TestGitOperation_01
+TestGitOperation_01
