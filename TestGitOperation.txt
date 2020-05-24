@@ -1,3 +1,0 @@
-TestGitOperation_01
-TestGitOperation_01
-TestGitOperation_01
